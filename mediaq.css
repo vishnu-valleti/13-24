@@ -1,0 +1,42 @@
+@media screen and (width <= 480px) {
+    .header{
+        padding: 12px;
+    }
+    .container{
+        width: 95%;
+    }
+    .sub-container{
+        font-size: 40px;
+        line-height: 55px;
+    }
+    .sub-container-2{
+        flex-direction: column;
+        gap: 5px;
+    }
+    .text{
+        background-color: transparent;
+    }
+    .span-container{
+        padding: 1rem;
+    }
+    .main-sub-container {
+        font-size: 2rem;
+        gap: 15px;
+    }
+    .main-sub-container>p{
+        width: 90%;
+    }
+    .main-sub-container-2{
+        padding: 10px;
+        width: 90%;
+    }
+    .main-image-container{
+        width: 90%;
+    }
+    .footer{
+        padding: 2.5rem;
+    }
+    .footer>p {
+        font-size: 1rem;
+    }
+}
