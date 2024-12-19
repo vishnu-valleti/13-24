@@ -2,11 +2,12 @@
     .header{
         padding: 12px;
     }
+
     .container{
-        width: 95%;
+        width: 100%;
     }
     .sub-container{
-        font-size: 40px;
+        font-size: 20px;
         line-height: 55px;
     }
     .sub-container-2{
@@ -20,7 +21,7 @@
         padding: 1rem;
     }
     .main-sub-container {
-        font-size: 2rem;
+        font-size: 1rem;
         gap: 15px;
     }
     .main-sub-container>p{
@@ -32,6 +33,9 @@
     }
     .main-image-container{
         width: 90%;
+    }
+    img{
+        width: 100%;
     }
     .footer{
         padding: 2.5rem;
